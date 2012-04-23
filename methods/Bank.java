@@ -21,6 +21,8 @@ import java.awt.*;
 
 /**
  * Bank related operations.
+ * 
+ * @author (Brad/Javaskill), Powerbot
  */
 public class Bank {
 	
